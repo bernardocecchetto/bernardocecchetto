@@ -9,3 +9,4 @@
 
 
 ![](https://komarev.com/ghpvc/?username=bernardocecchetto)
+![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardocecchetto&show_icons=true&theme=radical)
