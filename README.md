@@ -6,8 +6,6 @@
 
 🔭 I’m currently working on a framework to automatize image quality control test in mammography's equipments using deep learning and image processing techniques
 
-👨‍💻 All of my projects are available at sebasgarcia08.github.io/#/projects
-
 💬 Ask me about AI, Deep learning, Medical Physics...
 
 📫 How to reach me: cecchetto.bernardo@gmail.com
