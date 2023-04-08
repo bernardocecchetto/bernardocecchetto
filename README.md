@@ -11,6 +11,9 @@
 📫 How to reach me: cecchetto.bernardo@gmail.com
 
 
+
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20" height="20"/>: https://huggingface.co/Doccezera
+
 ![](https://komarev.com/ghpvc/?username=bernardocecchetto) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardocecchetto&layout=compact)](https://github.com/bernardocecchetto/github-readme-stats)
