@@ -12,7 +12,7 @@
 
 
 
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20" height="20"/>: https://huggingface.co/Doccezera
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20" height="20"/>: https://huggingface.co/bernardocecchetto
 
 ![](https://komarev.com/ghpvc/?username=bernardocecchetto) 
 
