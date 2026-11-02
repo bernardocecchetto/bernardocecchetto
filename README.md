@@ -1,30 +1,59 @@
-### Hi there! 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img alt="Bernardo Cecchetto, AI Engineer. I take AI from prototype to production." src="./assets/hero-light.svg" width="100%">
+</picture>
 
+I build AI products that have to work outside the demo: multi-agent systems, RAG and document intelligence, plus the backend, queues and deployment that keep them running. For 4+ years I've done this in domains where a wrong answer is expensive, from US tax filing to medical imaging.
 
-#### My name is Bernardo Cecchetto. I have Bachelor's in Medical Physics, and my expertize is in image processing, signal processing, computer vision and deep learning.
+My path started in physics, with a BSc in Medical Physics and an MSc in Information Technology, which still shapes how I work: measure first, then trust.
 
+## What I ship
 
-🔭 I’m currently working on a framework to automatize image quality control test in mammography's equipments using deep learning and image processing techniques
+| | |
+|:---|:---|
+| **Multi-agent systems** | Orchestrators and specialist agents, human-in-the-loop pause and resume, typed MCP tools, agents that see and drive a React UI through AG-UI |
+| **RAG and search** | Hybrid retrieval with pgvector, Reciprocal Rank Fusion and BGE-M3, RAG assistants on top of speech-to-text |
+| **Document intelligence** | OCR pipelines with vision LLMs on AWS SageMaker, typed extraction with BAML |
+| **Models** | Transformer architectures, LLM fine-tuning, model routing and fallback for latency and cost |
+| **Production engineering** | FastAPI, WebSockets, Docker, Postgres job queues with per-tenant fairness, CI with deterministic Playwright gates and AI-assisted PR review |
 
-💬 Ask me about AI, Deep learning, Medical Physics...
+**Stack:** Python · LangGraph · LangChain · Amazon Bedrock · AWS SageMaker · Gemini · FastAPI · PostgreSQL · pgvector · Docker · React
 
-📫 How to reach me: cecchetto.bernardo@gmail.com
+## Selected work
 
+<details>
+<summary><b>AI tax filing platform</b> · EzTaxReturn</summary>
+<br>
+Multi-agent systems for US tax filing on Amazon Bedrock, LangChain and LangGraph. An orchestrator delegates to domain specialists, the agent knows each screen and field the user is on, and uploaded tax documents flow through an OCR pipeline into the forms.
+</details>
 
+<details>
+<summary><b>WhatsApp automation for auto repair shops</b> · multi-tenant</summary>
+<br>
+Customer service agents on Gemini, running on-premises with Docker and PostgreSQL. A Postgres-backed job queue keeps tenants fair, and model routing with fallback holds latency down for real-time conversations.
+</details>
 
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20" height="20"/>: https://huggingface.co/bernardocecchetto
+<details>
+<summary><b>GenAI for Agile automation</b> · Eldorado Research Institute, for Dell</summary>
+<br>
+Generative AI applied to automating Agile workflows.
+</details>
 
-![](https://komarev.com/ghpvc/?username=bernardocecchetto) 
+<details>
+<summary><b>Speech-to-text and RAG assistants</b> · Peers Consulting</summary>
+<br>
+Speech-to-text pipelines and retrieval-based assistants.
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardocecchetto&layout=compact)](https://github.com/bernardocecchetto/github-readme-stats)
+<details>
+<summary><b>Computer vision for medical imaging</b> · Med.Place</summary>
+<br>
+Deep learning for medical images, building on my research into automated image quality control for mammography equipment.
+</details>
 
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardocecchetto&show_icons=true&theme=radical)
+<!--STATS:START-->
+<!--STATS:END-->
 
+## Let's talk
 
-### Languages and Tools:
-
-<img src="https://keras.io/img/logo.png" width="100" height="30"/><img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> <img src="https://spark.apache.org/images/spark-logo-rev.svg" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"  width="50" height="50"/><img src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-<img src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" width="50" height="50"/> <img src="https://camo.githubusercontent.com/53ae1cb6abbfacfb463f0a0d2fbdb58acad261200cb61f3d32abd7ac0edacded/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" width="50" height="50"/> <img src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png?auto=compress,format" width="100" height="30"/>
-
-
+Building something with AI that has to survive contact with real users? Reach me at [cecchetto.bernardo@gmail.com](mailto:cecchetto.bernardo@gmail.com) · [Hugging Face](https://huggingface.co/bernardocecchetto) · [X](https://twitter.com/Ber_Cecchetto)
